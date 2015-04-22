@@ -1,5 +1,5 @@
-Pssst Config
-============
+Pssst Configs
+=============
 This repository contains the official Pssst configurations.
 
 Amazon
