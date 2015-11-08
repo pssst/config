@@ -1,7 +1,5 @@
-![](http://www.gravatar.org/avatar/2aae9030772d5b59240388522f91468f?s=38)
-
-Pssst Config
-============
+![](http://www.gravatar.org/avatar/2aae9030772d5b59240388522f91468f?s=38) Pssst Config
+====
 Pssst is a simple and secure way to exchange information. We do not provide
 services by our self, but we provide you with the tools to start your own
 service. These tools build upon open-source software and use strong end-to-end
