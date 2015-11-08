@@ -1,4 +1,6 @@
-![](http://www.gravatar.org/avatar/2aae9030772d5b59240388522f91468f?s=82) Pssst Config
+![Pssst](http://www.gravatar.org/avatar/2aae9030772d5b59240388522f91468f?s=96)
+
+Pssst Config
 ============
 Pssst is a simple and secure way to exchange information. We do not provide
 services by our self, but we provide you with the tools to start your own
@@ -31,6 +33,6 @@ the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
 ----------
-_Created by
+Created by
 [Christian](https://github.com/7-bit) & [Christian](https://github.com/cuhsat)
-just for the joy of it._
+just for the joy of it
