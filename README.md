@@ -1,18 +1,17 @@
-Pssst Configs
-=============
-This repository contains the official Pssst configurations.
+Pssst Config
+============
+This repository contains our configurations.
 
-Amazon
-------
+Redis
+-----
+### Amazon
 * `t2.micro.conf`  - Redis config for an EC2 `t2.micro` instance
 * `t2.small.conf`  - Redis config for an EC2 `t2.small` instance
 * `t2.medium.conf` - Redis config for an EC2 `t2.medium` instance
 
-JiffyBox
---------
-* `cloudlevel1.conf` - Redis database config for an `CloudLevel 1` instance
+### DomainFactory
+* `cloudlevel-1.conf` - Redis config for an `CloudLevel 1` instance
 
-Uberspace
----------
-* `api.conf` - Redis database config used by `api.pssst.name`
-* `dev.conf` - Redis database config used by `dev.pssst.name`
+### Uberspace
+* `api.pssst.conf` - Redis config used by `api.pssst.name`
+* `dev.pssst.conf` - Redis config used by `dev.pssst.name`
