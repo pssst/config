@@ -27,7 +27,7 @@ This folder contains Redis database configurations:
 
 License
 -------
-Licensed under the terms of the [GPLv3 License](LICENSE).
+Released under the terms of the [GPLv3](LICENSE) license.
 
 ----------
 Created by
