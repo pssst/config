@@ -2,7 +2,7 @@
 
 Pssst Config
 ============
-> PLEASE NOTE THAT THIS PROJECT IS NO LONGER ACTIVELY MAINTAINED
+> PLEASE NOTE, THAT THIS PROJECT IS NO LONGER ACTIVELY MAINTAINED
 
 Pssst is a simple and secure way to exchange information. We do not provide
 services by our self, but we provide you with the tools to start your own
